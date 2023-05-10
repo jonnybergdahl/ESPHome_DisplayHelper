@@ -1,0 +1,20 @@
+{
+  "name": "ESPHome_DisplayHelper",
+  "version": "1.0.0",
+  "description": "ESPHome_DisplayHelper is a helper library to simplify using displays in ESPHome",
+  "keywords": "esphome display",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonnybergdahl/ESPHome_DisplayHelper"
+  },
+  "authors": [
+    {
+      "name": "jonnybergdahl"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jonnybergdahl/ESPHome_DisplayHelper/",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "*"
+}
